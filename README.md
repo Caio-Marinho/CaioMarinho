@@ -1,2 +1,2 @@
-# Primeiro exercicio
-#criação de um curriculo para se testas HTML
+# Primeiro exercicio de HTML
+Criação de um curriculo para se testas HTML
